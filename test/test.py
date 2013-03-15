@@ -15,5 +15,9 @@ def test_minus():
 
 def test_times():
     assert times(2, 3) == 6
+    
+
+def test_time2():
+    assert times(2, 3) == 6
 
 #  change 15
