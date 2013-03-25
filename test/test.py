@@ -17,4 +17,7 @@ def test_times():
     assert times(2, 3) == 6
 
 
-#  change 21
+def test_times2():
+    assert times(2, 3) == 6
+
+#  change 22
